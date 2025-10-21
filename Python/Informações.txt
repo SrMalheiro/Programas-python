@@ -1,7 +1,0 @@
-Os arquivos correspondem ao seu nome, mas têm uns códigos que são separados pelos seguintes nomes…
-Se tem:
--1.0 (Não tem funções)
--2.0 (Tem funções)
--3.0 (Exporta ou importa arquivos exteriores)
-
-NEM TODOS OS PROGRAMAS ESTÃO COMPLETOS! Alguns ainda são projetos em desenvolvimento que pretendo atualizar assim que concluidos...
