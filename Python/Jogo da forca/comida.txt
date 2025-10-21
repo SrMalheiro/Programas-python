@@ -1,0 +1,15 @@
+pizza
+lasanha
+sopa
+arroz
+batata
+carne
+peixe
+massa
+hamburguer
+sanduiche
+omelete
+salada
+bolo
+tarte
+gelado
