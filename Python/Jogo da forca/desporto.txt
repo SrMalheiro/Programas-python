@@ -1,0 +1,15 @@
+futebol
+basquete
+natacao
+voleibol
+tenis
+surf
+corrida
+ginastica
+ciclismo
+esgrima
+rugby
+golfe
+patinagem
+halterofilismo
+boxe

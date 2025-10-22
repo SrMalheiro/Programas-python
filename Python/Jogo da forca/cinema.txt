@@ -1,0 +1,15 @@
+filme
+ator
+atriz
+realizador
+argumento
+camera
+cenografia
+trailer
+bilhete
+estreia
+oscar
+drama
+comedia
+terror
+documentario
